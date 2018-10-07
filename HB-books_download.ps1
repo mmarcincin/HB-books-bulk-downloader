@@ -111,7 +111,6 @@ Get-Content $links | Foreach-Object {
 			New-Item -ItemType directory -Path $DownloadDirectory\$bundleTitle | Out-Null
 			}
 			Move-Item -Path $temp\$bundleTitle\* -Destination $DownloadDirectory\$bundleTitle
-			pause
 		}
 	}
 	Remove-Item "$temp\*" -Recurse
