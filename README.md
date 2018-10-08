@@ -1,4 +1,5 @@
 # HB books bulk downloader
+https://github.com/mmarcincin/HB-books-bulk-downloader/archive/master.zip
 HB books bulk downloader 0.1
 ----------------------
 It's a powershell script which allows you to download books from humble bundle pages (https://www.humblebundle.com/downloads?key=XXXXXXXXXXXXXXXX) in bulk.
