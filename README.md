@@ -6,7 +6,7 @@ HB books bulk downloader 0.1
 It's a powershell script (It should work for Windows 7+) which allows you to download books from humble bundle pages (https://www.humblebundle.com/downloads?key=XXXXXXXXXXXXXXXX) in bulk.
 It uses Internet Explorer instance to retrieve the links so all you need to do is login to humble bundle through the internet explorer and that's it.
 
-Right now the script puts each book into its own folder and all versions inside. The download is sequential for now.
+Right now the script puts bundle into its own folder and each book into the subfolder and all versions inside. The download is sequential for now.
 I'll add some options later, like download only some versions (pdf, epub, etc..) and maybe different folder sorting by book version instead of book name (for example, all pdf in one folder).
 
 
