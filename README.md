@@ -1,6 +1,11 @@
 # HB books bulk downloader
 https://github.com/mmarcincin/HB-books-bulk-downloader/archive/master.zip
 ----------------------
+New Script Announcement
+----------------------
+I've made the new script which is a improved version of this one here:
+https://github.com/mmarcincin/HB-DRM-free-bulk-downloader
+----------------------
 HB books bulk downloader 0.1
 ----------------------
 It's a powershell script (It should work for Windows 7+) which allows you to download books from humble bundle pages (https://www.humblebundle.com/downloads?key=XXXXXXXXXXXXXXXX) in bulk.
